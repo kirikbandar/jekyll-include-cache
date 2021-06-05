@@ -24,7 +24,7 @@ If you have a computationally expensive include (such as a sidebar or navigation
   ```
   💡 If you are using a Jekyll version less than 3.5.0, use the `gems` key instead of `plugins`.
 
-[comment]: <>  3. Replace `{% include foo.html %}` in your template with `{% include_cached foo.html %}`
+3. Replace `{% include foo.html %}` in your template with `{% include_cached foo.html %}`
 
 ## One potential gotcha
 
